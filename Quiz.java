@@ -3,6 +3,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//This is a simple Java quiz where you will have 1 question and 4 options to choose  then go to the next question and at the end you will have summary of your quiz
+
 public class Quiz implements ActionListener {
 
     String[] questions = {
